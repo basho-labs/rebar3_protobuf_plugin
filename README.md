@@ -1,8 +1,7 @@
 Rebar 3 Protobuf Plugin
 =====
 
-This is a rebar3 style plugin to compile protobuffs as part of a project build cycle. This code is rooted as a port from rebar, originally implemented by Tomas Abrahamsson (tomas.abrahamsson@gmail.com), with additional modifications by the Basho team.
-
+This is a rebar3 style plugin to compile protobuffs as part of a project build cycle. This code is rooted as a port from rebar, originally implemented by Tomas Abrahamsson and Dave Smith, with additional modifications by the Basho team.
 
 Build
 -----
@@ -25,7 +24,6 @@ Then just call your plugin directly in an existing application:
     ===> Fetching rebar3_protobuf_plugin
     ===> Compiling rebar3_protobuf_plugin
     <Plugin Output>
-
 
 Contributing and Reporting Bugs
 ----
