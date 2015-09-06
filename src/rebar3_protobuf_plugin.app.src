@@ -9,7 +9,7 @@
   {env,[]},
   {modules, []},
 
-  {contributors, [Cuyler Jones]},
-  {licenses, [Apache]},
-  {links, [https://github.com/basho/rebar3_protobuf_plugin]}
+  {contributors, ["Cuyler Jones"]},
+  {licenses, ["Apache"]},
+  {links, [{"Github", "https://github.com/basho/rebar3_protobuf_plugin"}]}
  ]}.
